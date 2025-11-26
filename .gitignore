@@ -1,0 +1,24 @@
+
+#OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# temp
+*.tmp
+*.temp
+tmp/
+
+# Environment / secrets
+.env
+*.logon
+*.secret
+*.key
