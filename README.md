@@ -1,3 +1,3 @@
-# My Resipes
+# My Recipes:
 
 
